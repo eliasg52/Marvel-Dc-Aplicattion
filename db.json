@@ -1,0 +1,57 @@
+{
+  "animated-movies": [
+    {
+      "id": 1,
+      "title": "Batman: Mask of the Phantasm",
+      "date": 1993,
+      "description": "Batman is wrongly implicated in a series of murders of mob bosses actually done by a new vigilante assassin.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ea/Batman_mask_of_the_phantasm_poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=G__jUFD4Ef8&ab_channel=MediaGraveyard"
+    },
+    {
+      "id": 2,
+      "title": "Batman & Mr. Freeze: SubZero",
+      "date": 1998,
+      "description": "When Mr. Freeze, desperate to save his dying wife, kidnaps Barbara Gordon (Batgirl) as an involuntary organ donor, Batman and Robin must find her before the operation can begin.",
+      "image": "https://pics.filmaffinity.com/Batman_Mr_Freeze_SubZero-878240841-large.jpg",
+      "trailer": "https://www.youtube.com/watch?v=nSfidAYMx7o&ab_channel=DC"
+    },
+    {
+      "id": 3,
+      "title": " Batman Beyond: Return of the Joker",
+      "date": 2000,
+      "description": "The Joker is back with a vengeance, and Gotham's newest Dark Knight needs answers as he stands alone to face Gotham's most infamous Clown Prince of Crime.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmRmODEwNzctYzU1MS00ZDQ1LWI2NWMtZWFkNTQwNDg1ZDFiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX500_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=rKFZCVJwHQ4&ab_channel=DC"
+    },
+    {
+      "id": 4,
+      "title": " Batman Beyond: Return of the Joker",
+      "date": 2000,
+      "description": "The Joker is back with a vengeance, and Gotham's newest Dark Knight needs answers as he stands alone to face Gotham's most infamous Clown Prince of Crime.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmRmODEwNzctYzU1MS00ZDQ1LWI2NWMtZWFkNTQwNDg1ZDFiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX500_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=rKFZCVJwHQ4&ab_channel=DC"
+    },
+    {
+      "id": 5,
+      "title": " Batman Beyond: Return of the Joker",
+      "date": 2000,
+      "description": "The Joker is back with a vengeance, and Gotham's newest Dark Knight needs answers as he stands alone to face Gotham's most infamous Clown Prince of Crime.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmRmODEwNzctYzU1MS00ZDQ1LWI2NWMtZWFkNTQwNDg1ZDFiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX500_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=rKFZCVJwHQ4&ab_channel=DC"
+    },
+    {
+      "id": 6,
+      "title": " Batman Beyond: Return of the Joker",
+      "date": 2000,
+      "description": "The Joker is back with a vengeance, and Gotham's newest Dark Knight needs answers as he stands alone to face Gotham's most infamous Clown Prince of Crime.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmRmODEwNzctYzU1MS00ZDQ1LWI2NWMtZWFkNTQwNDg1ZDFiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX500_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=rKFZCVJwHQ4&ab_channel=DC"
+    }
+  ],
+  "movies": [
+    {
+      "asd": "asd"
+    }
+  ]
+}
